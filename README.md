@@ -1,6 +1,6 @@
 # Cookies
 
-GitHub provides a great deal of transparency regarding how we use your data, how we collect your data, and with whom we share your data. To that end, we provide this page which details how we use cookies.
+GitHub provides a great deal of transparency regarding how we use your data, how we collect your data, and with whom we share your data. To tkrhat end, we provide this page which details how we use cookies.
 
 GitHub uses cookies to provide and secure our websites, as well as to analyze the usage of our websites, in order to offer you a great user experience. Please take a look at our [Privacy Statement](https://docs.github.com/en/github/site-policy/github-privacy-statement#our-use-of-cookies-and-tracking-technologies) if you’d like more information about cookies, and on how and why we use them and cookie-related personal data. You can change your preference about non-essential cookies at any time by following [these instructions](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/managing-your-cookie-preferences-for-githubs-enterprise-marketing-pages).
 
